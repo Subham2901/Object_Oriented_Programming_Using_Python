@@ -1,0 +1,32 @@
+This is my first text file created using python.
+ I am happy, that i can create file using python.
+ These texts are inserted using append mode and for loop 0
+ These texts are inserted using append mode and for loop 1
+ These texts are inserted using append mode and for loop 2
+ These texts are inserted using append mode and for loop 3
+ These texts are inserted using append mode and for loop 4
+ These texts are inserted using append mode and for loop 5
+ These texts are inserted using append mode and for loop 6
+ These texts are inserted using append mode and for loop 7
+ These texts are inserted using append mode and for loop 8
+ These texts are inserted using append mode and for loop 9
+ These texts are inserted using append mode and for loop 0
+ These texts are inserted using append mode and for loop 1
+ These texts are inserted using append mode and for loop 2
+ These texts are inserted using append mode and for loop 3
+ These texts are inserted using append mode and for loop 4
+ These texts are inserted using append mode and for loop 5
+ These texts are inserted using append mode and for loop 6
+ These texts are inserted using append mode and for loop 7
+ These texts are inserted using append mode and for loop 8
+ These texts are inserted using append mode and for loop 9
+ These texts are inserted using append mode and for loop 0
+ These texts are inserted using append mode and for loop 1
+ These texts are inserted using append mode and for loop 2
+ These texts are inserted using append mode and for loop 3
+ These texts are inserted using append mode and for loop 4
+ These texts are inserted using append mode and for loop 5
+ These texts are inserted using append mode and for loop 6
+ These texts are inserted using append mode and for loop 7
+ These texts are inserted using append mode and for loop 8
+ These texts are inserted using append mode and for loop 9
